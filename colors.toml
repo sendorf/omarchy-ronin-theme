@@ -1,0 +1,32 @@
+# Sampled from the ronin wallpaper for Omarchy v4.
+mode = "dark"
+
+accent = "#d4562d"
+selection = "#5c2317"
+muted = "#4d6b72"
+
+background = "#051116"
+dark_background = "#030b0f"
+darker_background = "#010608"
+lighter_background = "#0a2c35"
+
+foreground = "#e3d3be"
+dark_foreground = "#4d6b72"
+light_foreground = "#c7b9a6"
+bright_foreground = "#f3e6d4"
+
+red = "#c4321f"
+yellow = "#e8a55c"
+orange = "#d4562d"
+green = "#7e9668"
+cyan = "#16737a"
+blue = "#2a6b7e"
+magenta = "#9e4b5c"
+brown = "#8a5540"
+
+bright_red = "#e8562f"
+bright_yellow = "#f7c68a"
+bright_green = "#a6be8c"
+bright_cyan = "#3fb0b8"
+bright_blue = "#5aa8be"
+bright_magenta = "#c87484"
